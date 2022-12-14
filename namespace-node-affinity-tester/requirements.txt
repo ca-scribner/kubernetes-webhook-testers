@@ -1,0 +1,4 @@
+jsonpatch
+requests
+pyyaml
+typer
